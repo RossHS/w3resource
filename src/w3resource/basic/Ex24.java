@@ -31,7 +31,5 @@ public class Ex24 {
         for (int k = octNum.size() - 1; k >= 0; k--) {
             System.out.print(octNum.get(k));
         }
-
-
     }
 }
