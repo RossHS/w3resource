@@ -10,7 +10,6 @@ public class Ex56 {
                 System.out.print(i + " ");
             }
         }
-
     }
 
     public static void main(String[] args) {
