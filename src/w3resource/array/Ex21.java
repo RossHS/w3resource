@@ -12,8 +12,6 @@ public class Ex21 {
         Integer[] a = {1, 2, 3, 4, 5};
         ArrayList<Integer> arrayList = new ArrayList<>(Arrays.asList(a));
         Integer[] b = new Integer[arrayList.size()];
-        arrayList.toString();
-        arrayList.toArray(b);
         for (Integer num: b) {
             System.out.print(num + " ");
         }
